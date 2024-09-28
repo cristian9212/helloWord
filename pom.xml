@@ -11,7 +11,7 @@
 	<groupId>helloword</groupId>
 	<artifactId>ctalero-war</artifactId>
 	<version>0.0.1</version>
-	<name>ctalero</name>
+	<name>ctalero-war</name>
 	<description>helloword</description>
 	<url/>
 	<licenses>
