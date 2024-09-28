@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>helloword</groupId>
-	<artifactId>practicaHelloword</artifactId>
+	<artifactId>ctalero-war</artifactId>
 	<version>1.0.1-ctalero</version>
-	<name>ctalero.war</name>
+	<name>ctalero-war</name>
 	<description>helloword</description>
 	<url/>
 	<licenses>
