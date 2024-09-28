@@ -10,7 +10,8 @@
 	</parent>
 	<groupId>helloword</groupId>
 	<artifactId>ctalero</artifactId>
-	<version>1.0.1-ctalero.war</version>
+	<version>1.0.1-ctalero</version>
+	<packaging>war</packaging>
 	<name>ctalero</name>
 	<description>helloword</description>
 	<url/>
