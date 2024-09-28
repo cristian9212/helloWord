@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.microservices</groupId>
-	<artifactId>myfirstmicroservice</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>ctalero</artifactId>
+	<version>1.0.1</version>
 	<packaging>war</packaging>
-	<name>myfirstmicroservice</name>
+	<name>ctalero</name>
 	<description>Microservices by Chris</description>
 	<url/>
 	<licenses>
