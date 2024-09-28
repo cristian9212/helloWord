@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>helloword</groupId>
-	<artifactId>practicaHellowor</artifactId>
+	<artifactId>ctalero</artifactId>
 	<version>0.0.1</version>
 	<name>ctalero</name>
 	<description>helloword</description>
